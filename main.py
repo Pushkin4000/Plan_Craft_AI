@@ -1,5 +1,5 @@
 import streamlit as st
-import ollama_helpz
+import langchain_helpz
 import time
 
 st.title("Plan Craft AI")
@@ -9,7 +9,7 @@ Technology=st.text_input("Enter the name of technology for project ideas and pro
 
 if Technology:
     with st.spinner(text="Please wait uwu!!!!!!"):
-        response=ollama_helpz.techo(Technology)
+        response=langchain_helpz.techo(Technology)
     st.header(response["project_name"])
     zap=response["Procedure"].split(",")
     for items in zap:
