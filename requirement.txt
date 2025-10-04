@@ -1,4 +1,6 @@
 streamlit
 langchain-groq
 langchain-ollama
-langchian-community
+langchain-community
+dotenv
+
