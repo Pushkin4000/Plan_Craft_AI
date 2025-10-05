@@ -1,4 +1,3 @@
----
 
 ## Plan Craft AI
 
@@ -7,7 +6,6 @@ It generates project ideas and detailed step-by-step execution plans for any giv
 
 In the **agentic branch**, the system is extended to search the web for related **GitHub repositories** and **YouTube tutorials**, combining live web data with AI reasoning.
 
----
 
 ### Features
 
