@@ -211,4 +211,3 @@ You are free to use, modify, and distribute it with proper attribution.
 
 ---
 
-Would you like me to generate a matching **`requirements.txt`** for this version (including optional agentic dependencies)? It’ll make your repo more complete for users installing from GitHub.
